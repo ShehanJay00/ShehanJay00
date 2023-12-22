@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shehan Jayaooriya</h1>
 <div align="center"><img src ="4a6t7pmm323uaz9rv1rf.webp"></div>
-<h3 align="center">CS Undergraduate | Unleashing innovation | unlocking the future!</h3>
+<h3 align="center">CS Undergraduate | Unleashing Innovation | Unlocking the Future!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanjay00&label=Profile%20views&color=0e75b6&style=flat" alt="shehanjay00" /> </p>
 
