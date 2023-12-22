@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehan Jayaooriya</h1>
 <div align="center"><img src ="4a6t7pmm323uaz9rv1rf.webp"></div>
 <h3 align="center">CS Undergraduate | Unleashing Innovation | Unlocking the Future!</h3>
-<img align='right' alt='coding' width='420' src="68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067.webp">
+<img align='right' alt='coding' width='430' src="Programming123najra.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanjay00&label=Profile%20views&color=0e75b6&style=flat" alt="shehanjay00" /> </p>
 
