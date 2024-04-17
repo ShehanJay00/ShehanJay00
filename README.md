@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect With Me</h3>
 <p align="left">
-<a href="https://twitter.com/shehan jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shehan jayasooriya" height="35" width="40" style="margin-right: 100px;" /></a>
-<a href="https://linkedin.com/in/shehan jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan jayasooriya" height="35" width="40"/></a>
-<a href="https://fb.com/shehan malinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehan malinda" height="35" width="40" /></a>
-<a href="https://instagram.com/shehan_jx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_jx" height="35" width="40" /></a>
+<a href="https://twitter.com/shehan jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shehan jayasooriya" height="30" width="35" /></a>
+<a href="https://linkedin.com/in/shehan jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan jayasooriya" height="30" width="35"/></a>
+<a href="https://fb.com/shehan malinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehan malinda" height="30" width="35" /></a>
+<a href="https://instagram.com/shehan_jx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_jx" height="30" width="35" /></a>
 </p>
 
 <h3 align="left">Languages & Tools</h3>
