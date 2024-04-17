@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shehan Jayaooriya</h1>
-<div align="center"><img src ="4a6t7pmm323uaz9rv1rf.webp"></div>
+<h1 align="center">Hi 👋, I'M SHEHAN JAYASOORIYA</h1>
+<!-- <div align="center"><img src ="4a6t7pmm323uaz9rv1rf.webp"></div> -->
 <h3 align="center">CS Undergraduate | Unleashing Innovation | Unlocking the Future!</h3>
 <img align='right' alt='coding' width='435' src="Programming123najra.gif">
 
