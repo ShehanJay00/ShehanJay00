@@ -35,6 +35,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shehanjay00&show_icons=true&locale=en&theme=graywhite" alt="shehanjay00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanjay00&theme=graywhite" alt="shehanjay00" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanjay00&theme=default" alt="shehanjay00" /></p>
 
 ![](https://github-contributor-stats.vercel.app/api?username=ShehanJay00&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
