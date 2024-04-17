@@ -37,5 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanjay00&" alt="shehanjay00" /></p>
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShehanJay00&limit=5&theme=flat&combine_all_yearly_contributions=true)
