@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'M SHEHAN JAYASOORIYA</h1>
-<!-- <div align="center"><img src ="4a6t7pmm323uaz9rv1rf.webp"></div> -->
-<h3 align="center">CS Undergraduate | Unleashing Innovation | Unlocking the Future!</h3>
+<h1 align="center">Hi 👋, I'm Shehan Jayasooriya</h1>
+<div align="center"><img src ="4a6t7pmm323uaz9rv1rf.webp"></div>
+<!-- <h3 align="center">CS Undergraduate | Unleashing Innovation | Unlocking the Future!</h3> -->
 <img align='right' alt='coding' width='435' src="Programming123najra.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanjay00&label=Profile%20views&color=0e75b6&style=flat" alt="shehanjay00" /> </p>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shehanjayxx@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shehan jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shehan jayasooriya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shehan jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan jayasooriya" height="30" width="40" /></a>
