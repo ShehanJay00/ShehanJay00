@@ -4,7 +4,7 @@
 <!-- <h3 align="center">CS Undergraduate | Unleashing Innovation | Unlocking the Future!</h3> -->
 <img align='right' alt='coding' width='435' src="Programming123najra.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanjay00&label=Profile%20views&color=0e75b6&style=flat" alt="shehanjay00" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanjay00&label=Profile%20views&color=0e75b6&style=flat" alt="shehanjay00" /> </p>-->
 
 🔭 I’m currently working on **ML Projects**
 
