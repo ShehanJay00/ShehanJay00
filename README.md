@@ -34,6 +34,7 @@
 <a href="https://instagram.com/shehan_jx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_jx" height="30" width="35" /></a>
 </p>-->
 
+<pre>
 <p align="center">
 <br>
 <a href="https://fb.com/shehan malinda"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
@@ -42,10 +43,13 @@
 <a href=""><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
+</pre>
 
 <br>
+
 <Pre align = 'center'>
-💻Tech Stack </>
+  #💻Tech Stack </>
+  
 </Pre>
 
 <p align="left"> 
