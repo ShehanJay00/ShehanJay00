@@ -6,7 +6,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanjay00&label=Profile%20views&color=0e75b6&style=flat" alt="shehanjay00" /> </p>-->
 
-🔭 I’m currently working on **ML Projects**
+<!--🔭 I’m currently working on **ML Projects**
 
 🌱 I’m currently learning **MERN Full Stack Development**
 
@@ -14,9 +14,9 @@
 
 💬 Ask me about **Java , C++ , Python**
 
-📫 How to reach me **shehanjayxx@gmail.com**
+📫 How to reach me **shehanjayxx@gmail.com** -->
 
-<pre>
+<pre align = 'center'>
 💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
 📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
 📝 I have a strong interest in building Frontend Uis for ML applications
