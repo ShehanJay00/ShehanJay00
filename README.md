@@ -18,7 +18,7 @@
 
 <pre>
 💻 I am developing my skills as a CS Undergraduate | Enthuastic about new technologies
-📚 Student of General Sir John kotelawala Defence University
+📚 Student of General Sir John kotelawala Defense University
 📝 I have a strong interest for work with ML applications
 🌟 Main languages: Java, Python
 🚩 Interested in Generative AI Applications
