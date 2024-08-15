@@ -16,6 +16,16 @@
 
 📫 How to reach me **shehanjayxx@gmail.com**
 
+<pre>
+💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
+📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
+📝 I have a strong interest in building Frontend Uis for ML applications
+🔭 Working on Shopify Themes and React websites using Gatsby.js
+🌱 Focusing on Learning about customer needs and making their lives easier
+🌟 Main languages: Javascript, Python
+🚩 Interested in Full Stack Machine Learning Application development
+</pre>
+
 <!--<h4 align="left">CONNECT WITH ME</h4>
 <p align="center">
 <a href="https://twitter.com/shehan jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shehan jayasooriya" height="30" width="35" /></a>
