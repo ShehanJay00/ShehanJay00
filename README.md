@@ -17,7 +17,7 @@
 📫 How to reach me **shehanjayxx@gmail.com**
 
 <h4 align="left">CONNECT WITH ME</h4>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/shehan jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shehan jayasooriya" height="30" width="35" /></a>
 <a href="https://linkedin.com/in/shehan jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan jayasooriya" height="30" width="35"/></a>
 <a href="https://fb.com/shehan malinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehan malinda" height="30" width="35" /></a>
