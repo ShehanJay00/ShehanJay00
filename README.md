@@ -2,7 +2,7 @@
 <!--<h1 align="center">Hi 👋, I'm Shehan Jayasooriya</h1>-->
 <div align="center"><img src ="4a6t7pmm323uaz9rv1rf.webp"></div>
 <!-- <h3 align="center">CS Undergraduate | Unleashing Innovation | Unlocking the Future!</h3> -->
-<img align='right' alt='coding' width='435' src="Programming123najra.gif">
+<!--<img align='right' alt='coding' width='435' src="Programming123najra.gif">-->
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanjay00&label=Profile%20views&color=0e75b6&style=flat" alt="shehanjay00" /> </p>-->
 
