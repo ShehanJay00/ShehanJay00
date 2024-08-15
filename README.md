@@ -16,7 +16,7 @@
 
 📫 How to reach me **shehanjayxx@gmail.com** -->
 
-<pre align = 'center'>
+<pre>
 💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
 📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
 📝 I have a strong interest in building Frontend Uis for ML applications
