@@ -39,7 +39,7 @@
 </p>-->
 <br>
 <Pre align = 'center'>
-  #👋Connect With Me :)
+  👋Connect With Me :)
 </Pre>
 <br>
 <p align="center">
@@ -52,7 +52,7 @@
 
 <br>
 <Pre align = 'center'>
-  #💻Tech Stack :)
+  💻Tech Stack :)
 </Pre>
 <br>
 
