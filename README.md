@@ -17,13 +17,13 @@
 📫 How to reach me **shehanjayxx@gmail.com** -->
 
 <pre>
-💻 I am developing my skills as a CS Undergraduate | Enthuastic about new technologies
-📚 Student at General Sir John kotelawala Defense University
-📝 I have a strong interest for work with ML applications
-🌟 Main languages: Java, Python
-🚩 Interested in Generative AI Applications
-📫 How to reach me : shehanjayxx@gmail.com
-👨‍💻 projects are available at [https://github.com/ShehanJay00](https://github.com/ShehanJay00)
+💻 CS Undergraduate passionate about exploring new technologies  
+📚 Student at **General Sir John Kotelawala Defence University**  
+📝 Strong interest in **Machine Learning** and its real-world applications  
+🌟 Main programming languages: **Java** & **Python**  
+🚩 Currently exploring **Generative AI applications**  
+📫 Reach me at: **shehanjayxx@gmail.com**  
+🔗 Check out my projects: [GitHub/ShehanJay00](https://github.com/ShehanJay00)
 </pre>
 
 
