@@ -17,6 +17,8 @@
 📫 How to reach me **shehanjayxx@gmail.com** -->
 
 <pre>
+## 👨‍💻 About Me  
+
 💻 CS Undergraduate passionate about exploring new technologies  
 📚 Student at **General Sir John Kotelawala Defence University**  
 📝 Strong interest in **Machine Learning** and its real-world applications  
@@ -24,6 +26,7 @@
 🚩 Currently exploring **Generative AI applications**  
 📫 Reach me at: **shehanjayxx@gmail.com**  
 🔗 Check out my projects: [GitHub/ShehanJay00](https://github.com/ShehanJay00)
+
 </pre>
 
 
