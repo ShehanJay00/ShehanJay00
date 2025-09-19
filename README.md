@@ -3,22 +3,12 @@
 <!--<div align="center"><img src ="4a6t7pmm323uaz9rv1rf.webp"></div>-->
 <!-- <h3 align="center">CS Undergraduate | Unleashing Innovation | Unlocking the Future!</h3> -->
 <!--<img align='right' alt='coding' width='435' src="Programming123najra.gif">-->
-
 <br>
 
-<!--🔭 I’m currently working on **ML Projects**
-
-🌱 I’m currently learning **MERN Full Stack Development**
-
-👨‍💻 All of my projects are available at [https://github.com/ShehanJay00](https://github.com/ShehanJay00)
-
-💬 Ask me about **Java , C++ , Python**
-
-📫 How to reach me **shehanjayxx@gmail.com** -->
+<Pre align = 'center'>👨‍💻 About Me  
+</pre>
 
 <pre>
-## 👨‍💻 About Me  
-
 💻 CS Undergraduate passionate about exploring new technologies  
 📚 Student at **General Sir John Kotelawala Defence University**  
 📝 Strong interest in **Machine Learning** and its real-world applications  
