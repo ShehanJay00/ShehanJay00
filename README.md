@@ -10,13 +10,12 @@
 
 <pre>
 💻 CS Undergraduate passionate about exploring new technologies  
-📚 Student at **General Sir John Kotelawala Defence University**  
-📝 Strong interest in **Machine Learning** and its real-world applications  
-🌟 Main programming languages: **Java** & **Python**  
-🚩 Currently exploring **Generative AI applications**  
-📫 Reach me at: **shehanjayxx@gmail.com**  
+📚 Student at <b>General Sir John Kotelawala Defence University</b>
+📝 Strong interest in <b>Machine Learning</b> and its real-world applications  
+🌟 Main programming languages: <b>Java</b> & <b>Python</b>
+🚩 Currently exploring <b>Generative AI applications</b>  
+📫 Reach me at: <b>shehan.m.jayasooriya@gmail.com</b>  
 🔗 Check out my projects: [GitHub/ShehanJay00](https://github.com/ShehanJay00)
-
 </pre>
 
 
