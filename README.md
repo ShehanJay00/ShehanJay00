@@ -34,7 +34,7 @@
 <Pre align = 'center'>
   👋 Connect With Me :)
 </Pre>
-<br>
+
 <p align="center">
 <a href="https://fb.com/shehan malinda"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/shehan_jx"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
