@@ -20,15 +20,6 @@
 
 
 
-
-
-<!--<h4 align="left">CONNECT WITH ME</h4>
-<p align="center">
-<a href="https://twitter.com/shehan jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shehan jayasooriya" height="30" width="35" /></a>
-<a href="https://linkedin.com/in/shehan jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan jayasooriya" height="30" width="35"/></a>
-<a href="https://fb.com/shehan malinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehan malinda" height="30" width="35" /></a>
-<a href="https://instagram.com/shehan_jx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_jx" height="30" width="35" /></a>
-</p>-->
 <br>
 <Pre align = 'center'>
   👋 Connect With Me :)
@@ -41,6 +32,7 @@
 <a href=""><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://github.com/ShehanJay00/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
+
 
 <br>
 
@@ -58,7 +50,8 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
----
+<br>
+
 <pre>
 🌐 Frontend Development
 </pre>
@@ -71,7 +64,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
----
+<br>
+
 <pre>
 🔧 Backend Development
 </pre>
@@ -82,7 +76,8 @@
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
----
+<br>
+
 <pre>
 🛢️ Databases
 </pre>
@@ -93,7 +88,8 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
----
+<br>
+
 <pre>
 ☁️ Cloud & DevOps
 </pre>
@@ -104,7 +100,8 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+<br>
+
 <pre>
 🛠️ Tools & Platforms
 </pre>
@@ -118,7 +115,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
+
+<br>
+
 <pre>
 🤖 Machine Learning & Data Science
 </pre>
@@ -133,7 +132,7 @@
 
 <br>
 
-<table align="center">
+<!--<table align="center">
   <tr>
     <td style="background-color: #f0f0f0; padding: 10px; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanjay00&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="Top Languages" />
@@ -160,6 +159,42 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=shehanjay00&label=Profile%20views&color=0e75b6&style=flat" alt="shehanjay00" /> </p>
+<img src="https://komarev.com/ghpvc/?username=shehanjay00&label=Profile%20views&color=0e75b6&style=flat" alt="shehanjay00" /> </p> -->
+
+<pre align="center">
+📊 GitHub Stats & Insights  
+</pre>
+
+
+
+
+<table align="center" width="100%">
+  <tr>
+    <td style="background-color: #1e1e1e; padding: 20px; text-align: center; border-radius: 12px; width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanjay00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="420" height="170"/>
+    </td>
+    <td style="background-color: #1e1e1e; padding: 20px; text-align: center; border-radius: 12px; width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=shehanjay00&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="420" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color: #1e1e1e; padding: 20px; text-align: center; border-radius: 12px; width: 50%;">
+      <img src="https://streak-stats.demolab.com?user=shehanjay00&theme=tokyonight" alt="GitHub Streak Stats" width="420" height="200"/>
+    </td>
+    <td style="background-color: #1e1e1e; padding: 20px; text-align: center; border-radius: 12px; width: 50%;">
+      <img src="https://github-contributor-stats.vercel.app/api?username=ShehanJay00&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" width="420" height="200"/>
+    </td>
+  </tr>
+</table>
+
+
+
+<br>
+
+<pre align='center'>
+  <img src="https://komarev.com/ghpvc/?username=shehanjay00&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
+</pre>
+
+
 
 
